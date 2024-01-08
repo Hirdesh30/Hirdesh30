@@ -22,3 +22,5 @@ Developing Enterprise-based Native application that helps customers using MS pro
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,react,ts,azure,git,github,mysql,powershell,visualstudio,vscode)]()
 
 🌐 Let's connect and code the future together! 👩‍💻🚀
+
+[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/baghel-hirdesh)

@@ -1,6 +1,4 @@
- Hi there 👋
-
-This is Hirdesh
+![Header](./Header-Image.png)
 
 🚀 Passionate Software Engineer | AI and Cloud Enthusiast
 

@@ -17,4 +17,8 @@ React SPFX for modern, responsive, and dynamic web parts.
 Unleashing the power of Azure AI and Cognitive Services for intelligent applications.
 Developing Enterprise-based Native application that helps customers using MS products with Ease.
 
+🛠️ Tools & Technologies that I Know:
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,react,ts,azure,git,github,mysql,powershell,visualstudio,vscode)]()
+
 🌐 Let's connect and code the future together! 👩‍💻🚀
